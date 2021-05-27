@@ -1,0 +1,45 @@
+.logo h1 {
+    line-height: 67px;
+}
+.menubar{}
+.menubar ul {
+    text-align: right;
+    margin-bottom: 0;
+}
+.menubar ul li{
+    display: inline-block;
+}
+.menubar ul li a {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 0 15px;
+    line-height: 75px;
+    font-size: 20px;
+}
+.border-gray{
+    border: 2px solid gray;
+    text-align: center;
+    padding: 10px 0;
+}
+.footerup img{
+    max-width: 100%;
+    height: 400px;
+    border: 3px solid white;
+}
+.footerup{
+    background: #f8f9fa;
+}
+.details h2{
+    font-size: 25px;
+}
+.footerup span {
+    font-size: 20px;
+    color: gray;
+}
+.footerup p {
+    font-size: 18px;
+}
+.footer{
+    text-align: center;
+}
